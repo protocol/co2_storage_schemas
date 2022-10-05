@@ -27,4 +27,4 @@ To create a new schema, (1) create a new folder following this path co2_storage_
 
 
 These data types correspond to the [Form Element case statements here](https://github.com/protocol/co2-storage/blob/main/client/web/src/mixins/form-elements/update-form.js
-). If your schema requires datatypes that are not currently supported, please request for a new datatype and tag [@mjohnson518](https://github.com/mjohnson518). 
+). If your schema requires data types that are not currently supported, please request for a new data type and tag [@mjohnson518](https://github.com/mjohnson518). 
