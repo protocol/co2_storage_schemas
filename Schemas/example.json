@@ -1,0 +1,74 @@
+{
+  "Country": {
+    "type": "string",
+    "mandatory": true
+  },
+  "Retired": {
+    "type": "boolean"
+  },
+  "Vintage": {
+    "type": "date",
+    "mandatory": true
+  },
+  "ProjectID": {
+    "min": 0,
+    "type": "integer",
+    "value": 0,
+    "mandatory": true
+  },
+  "ProjectName": {
+    "type": "string",
+    "mandatory": true
+  },
+  "ProjectType": {
+    "type": "string",
+    "mandatory": true
+  },
+  "IssuanceDate": {
+    "type": "date",
+    "mandatory": true
+  },
+  "SerialNumber": {
+    "min": 0,
+    "type": "integer",
+    "value": 0,
+    "mandatory": true
+  },
+  "IssuanceStatus": {
+    "type": "array",
+    "options": [
+      "Active",
+      "Retired",
+      "Canceled"
+    ],
+    "mandatory": true
+  },
+  "QuantityIssued": {
+    "min": 0,
+    "type": "integer",
+    "value": 0,
+    "mandatory": true
+  
+  },
+  "RetirementDetail": {
+    "min": 0,
+    "type": "integer",
+    "value": 0
+ 
+  },
+  "TotalVintageQuantity": {
+    "min": 0,
+    "type": "integer",
+    "value": 0,
+    "mandatory": true
+  },
+  "SerialNumberBlockStart": {
+    "type": "string"
+  },
+  "CorrespondingAdjustment": {
+    "type": "string"
+  },
+  "Retirement/CancellationDate": {
+    "type": "date"
+  }
+}
