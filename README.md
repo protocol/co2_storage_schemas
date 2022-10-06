@@ -4,7 +4,7 @@
 
 The [initial idea](https://github.com/protocol/FilecoinGreen-tools/blob/main/0006-FGTP-CO2_Storage.md) stemmed from the realization that the budding Refi space, and tokenized carbon credits in particular, would benefit from the development of standard data schemas for environmental assets.
 
-The purpose of this repository is to publicly discuss and crowd-sourcing data schemas for CO2.Storage. We are doing this to encourage standardization and reduce fragmentation of data schemas across the Refi space. 
+The purpose of this repository is to publicly discuss and crowd-source data schemas for CO2.Storage. We are doing this to encourage standardization and reduce fragmentation of data schemas across the Refi space. 
 
 Please refer to the [Instructions](https://github.com/protocol/co2_storage_schemas/blob/main/Schemas/Instructions.md) for details on how to submit a new schema to this repository. 
 
