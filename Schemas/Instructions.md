@@ -7,6 +7,7 @@ To create a new schema, (1) create a new folder following this path `co2_storage
 - schema description
 - example datapoint conforming to the schema
 
+Please also refer to the [`co2_storage_schemas/Schemas/examples`](https://github.com/protocol/co2_storage_schemas/tree/main/Schemas/examples) folder for a few example schemas.
 
 ## Currently Supported Data Types:
 
